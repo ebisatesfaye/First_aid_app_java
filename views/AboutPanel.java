@@ -4,6 +4,6 @@ import javax.swing.*;
 
 public class AboutPanel extends JPanel {
     public AboutPanel() {
-        add(new JLabel("Campus First Aid App - Version 1.0"));
+        add(new JLabel("Version 1.0, Released March 2025"));
     }
 }
